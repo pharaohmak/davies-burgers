@@ -1,5 +1,15 @@
-# The Box Model: Davie's Burgers
+# Davie JR's Menu
 
-In this project, you will follow step-by-step instructions to fix a fictional restaurant’s website. All of the HTML and most of the CSS is intact, but the box model properties have yet to be set. You’ll use knowledge of height, width, padding, border, and margin to complete this project.
+Welcome to the **Davie JR's Menu** project! This project is a stylish and modern webpage designed to showcase a restaurant's BBQ Bacon Burger with detailed descriptions and nutritional information.
 
-The website’s existing index.html and style.css files are displayed in the text editor to the right. As you work, use both to see which elements you are selecting and styling. Most of the elements that you’ll need to add styles for already have rule sets in style.css to which you can add additional declarations.
+## Project Overview
+
+The Davie JR's Menu webpage features a clean and responsive design that highlights a signature burger from the restaurant's menu. It includes navigation links, a detailed burger description, an order button, and nutritional information.
+
+## Features
+
+- **Responsive Design:** The layout adjusts to different screen sizes, ensuring a seamless experience on any device.
+- **Navigation Menu:** Provides quick access to different sections such as Menu, Nutrition, Order, and Locations.
+- **Burger Description:** Highlights the BBQ Bacon Burger with a detailed description.
+- **Order Button:** A call-to-action button to order the featured burger.
+- **Nutritional Information:** Lists the calories, fat, protein, carbohydrates, and sodium content of the burger.

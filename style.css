@@ -9,18 +9,13 @@ body {
 
 a {
     text-decoration: none;
+    cursor: not-allowed;
 }
-
-div {
-    background-color: black;
-}
-
 
 /* Navigation */
 
 nav {
     text-align: center;
-    background-color: black;
 }
 
 nav img {
@@ -39,17 +34,19 @@ nav span {
 
 nav a {
     color: #666666;
-    background-color: black;
 }
 
-
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+}
 /* Content Container */
 
 .content {
     width: 100%;
     height: 500px;
     margin: 10px auto;
-    overflow: scroll;
 }
 
 
